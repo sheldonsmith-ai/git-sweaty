@@ -1181,5 +1181,18 @@
     "start_date_local": "2026-03-15T17:43:57Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 7268.0,
+    "elevation_gain": 122.7,
+    "id": "17747675057",
+    "moving_time": 3754.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-16T17:26:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
