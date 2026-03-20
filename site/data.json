@@ -845,6 +845,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17772867862",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 15,
+      "name": "Point U vs Florida Memorial Flag Football",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17784259377",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17785529591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1371,6 +1389,15 @@
           "distance": 7268.0,
           "elevation_gain": 122.7,
           "moving_time": 3754.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17784259377"
+          ],
+          "count": 1,
+          "distance": 2864.0,
+          "elevation_gain": 5.4,
+          "moving_time": 1751.0
         }
       },
       "TrailRun": {
@@ -1638,6 +1665,15 @@
           "distance": 2418.3,
           "elevation_gain": 50.7,
           "moving_time": 1979.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17785529591"
+          ],
+          "count": 1,
+          "distance": 3450.0,
+          "elevation_gain": 45.2,
+          "moving_time": 3506.0
         }
       },
       "WeightTraining": {
@@ -1653,7 +1689,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:49:18.839726+00:00",
+  "generated_at": "2026-03-20T15:38:21.968561+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
