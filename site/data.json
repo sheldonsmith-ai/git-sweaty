@@ -872,6 +872,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17796293061",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 9,
+      "name": "4x Flag Football games",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17807491650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1692,6 +1701,15 @@
           "distance": 4240.8,
           "elevation_gain": 136.7,
           "moving_time": 3262.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17807491650"
+          ],
+          "count": 1,
+          "distance": 9576.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9159.0
         }
       },
       "WeightTraining": {
@@ -1707,7 +1725,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:21:18.388999+00:00",
+  "generated_at": "2026-03-22T15:21:06.377094+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
