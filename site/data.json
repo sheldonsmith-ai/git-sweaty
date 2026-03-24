@@ -899,6 +899,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/17822207059",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17833988254",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17834177113",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1443,6 +1461,15 @@
           "distance": 2864.0,
           "elevation_gain": 5.4,
           "moving_time": 1751.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17834177113"
+          ],
+          "count": 1,
+          "distance": 2636.0,
+          "elevation_gain": 38.6,
+          "moving_time": 902.0
         }
       },
       "TrailRun": {
@@ -1746,6 +1773,15 @@
           "distance": 3020.0,
           "elevation_gain": 39.7,
           "moving_time": 3424.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17833988254"
+          ],
+          "count": 1,
+          "distance": 2272.9,
+          "elevation_gain": 59.0,
+          "moving_time": 1918.0
         }
       },
       "WeightTraining": {
@@ -1761,7 +1797,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:56:29.434885+00:00",
+  "generated_at": "2026-03-24T16:02:38.330287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
