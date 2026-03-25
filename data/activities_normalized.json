@@ -1324,5 +1324,44 @@
     "start_date_local": "2026-03-23T19:17:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 2869.0,
+    "elevation_gain": 27.0,
+    "id": "17844889394",
+    "moving_time": 1641.0,
+    "name": "NAIA Flag - Reinhardt vs Warner",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T14:07:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 3353.0,
+    "elevation_gain": 58.6,
+    "id": "17846640064",
+    "moving_time": 3521.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-24T16:57:55Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 3276.0,
+    "elevation_gain": 11.8,
+    "id": "17846897763",
+    "moving_time": 1101.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T18:26:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

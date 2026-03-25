@@ -917,6 +917,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17834177113",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 14,
+      "name": "NAIA Flag - Reinhardt vs Warner",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17844889394",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17846640064",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17846897763",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1470,6 +1497,16 @@
           "distance": 2636.0,
           "elevation_gain": 38.6,
           "moving_time": 902.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17844889394",
+            "17846897763"
+          ],
+          "count": 2,
+          "distance": 6145.0,
+          "elevation_gain": 38.8,
+          "moving_time": 2742.0
         }
       },
       "TrailRun": {
@@ -1782,6 +1819,15 @@
           "distance": 2272.9,
           "elevation_gain": 59.0,
           "moving_time": 1918.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17846640064"
+          ],
+          "count": 1,
+          "distance": 3353.0,
+          "elevation_gain": 58.6,
+          "moving_time": 3521.0
         }
       },
       "WeightTraining": {
@@ -1797,7 +1843,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T16:02:38.330287+00:00",
+  "generated_at": "2026-03-25T16:05:43.611303+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
