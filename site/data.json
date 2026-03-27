@@ -953,6 +953,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17859589878",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 18,
+      "name": "2x Redan Disc Golf",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17871375209",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1563,6 +1572,15 @@
           "distance": 10260.0,
           "elevation_gain": 157.0,
           "moving_time": 4721.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17871375209"
+          ],
+          "count": 1,
+          "distance": 6456.1,
+          "elevation_gain": 50.9,
+          "moving_time": 3601.0
         }
       },
       "Walk": {
@@ -1861,7 +1879,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:09:05.938460+00:00",
+  "generated_at": "2026-03-27T15:47:34.240750+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",

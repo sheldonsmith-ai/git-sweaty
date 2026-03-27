@@ -1376,5 +1376,18 @@
     "start_date_local": "2026-03-25T17:45:43Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 6456.1,
+    "elevation_gain": 50.9,
+    "id": "17871375209",
+    "moving_time": 3601.0,
+    "name": "2x Redan Disc Golf",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-26T18:21:15Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
