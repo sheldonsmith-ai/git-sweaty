@@ -1415,5 +1415,57 @@
     "start_date_local": "2026-03-27T19:02:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3346.0,
+    "elevation_gain": 2.1,
+    "id": "17890169890",
+    "moving_time": 2111.0,
+    "name": "NAIA Flag - Brewton-Parker vs Point U",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:57:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3140.5,
+    "elevation_gain": 22.0,
+    "id": "17891920615",
+    "moving_time": 2373.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T13:00:36Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3483.1,
+    "elevation_gain": 46.4,
+    "id": "17893170437",
+    "moving_time": 2821.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T15:32:08Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3653.3,
+    "elevation_gain": 35.1,
+    "id": "17894004940",
+    "moving_time": 2927.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T17:27:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
