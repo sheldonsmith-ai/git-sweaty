@@ -1565,7 +1565,7 @@
     "elevation_gain": 17.7,
     "id": "17968159839",
     "moving_time": 1777.0,
-    "name": "Evening Run",
+    "name": "Boundary Waters trail run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-03T18:57:06Z",
@@ -1583,6 +1583,19 @@
     "raw_type": "Walk",
     "start_date_local": "2026-04-03T17:34:22Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 4238.0,
+    "elevation_gain": 14.0,
+    "id": "17981767530",
+    "moving_time": 1403.0,
+    "name": "New Beltline trail!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T20:40:57Z",
+    "type": "Run",
     "year": 2026
   }
 ]

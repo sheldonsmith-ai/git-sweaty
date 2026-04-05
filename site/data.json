@@ -1083,7 +1083,7 @@
     {
       "date": "2026-04-03",
       "hour": 18,
-      "name": "Evening Run",
+      "name": "Boundary Waters trail run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17968159839",
@@ -1096,6 +1096,15 @@
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/17968281432",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 20,
+      "name": "New Beltline trail!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17981767530",
       "year": 2026
     }
   ],
@@ -1705,6 +1714,15 @@
           "distance": 4936.0,
           "elevation_gain": 17.7,
           "moving_time": 1777.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17981767530"
+          ],
+          "count": 1,
+          "distance": 4238.0,
+          "elevation_gain": 14.0,
+          "moving_time": 1403.0
         }
       },
       "TrailRun": {
@@ -2125,7 +2143,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:26:29.092115+00:00",
+  "generated_at": "2026-04-05T15:27:15.180366+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
