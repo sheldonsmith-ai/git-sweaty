@@ -1106,6 +1106,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17981767530",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 15,
+      "name": "Kennesaw Mountain Battlefield Loop",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17991954225",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17992866963",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1779,6 +1797,15 @@
           "distance": 6456.1,
           "elevation_gain": 50.9,
           "moving_time": 3601.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17991954225"
+          ],
+          "count": 1,
+          "distance": 7348.9,
+          "elevation_gain": 213.9,
+          "moving_time": 2936.0
         }
       },
       "Walk": {
@@ -2128,6 +2155,15 @@
           "distance": 3726.8,
           "elevation_gain": 24.2,
           "moving_time": 2850.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17992866963"
+          ],
+          "count": 1,
+          "distance": 5367.3,
+          "elevation_gain": 69.5,
+          "moving_time": 3964.0
         }
       },
       "WeightTraining": {
@@ -2143,7 +2179,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:27:15.180366+00:00",
+  "generated_at": "2026-04-06T15:41:29.386882+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",

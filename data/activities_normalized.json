@@ -1597,5 +1597,31 @@
     "start_date_local": "2026-04-04T20:40:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 7348.9,
+    "elevation_gain": 213.9,
+    "id": "17991954225",
+    "moving_time": 2936.0,
+    "name": "Kennesaw Mountain Battlefield Loop",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-05T15:23:42Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 5367.3,
+    "elevation_gain": 69.5,
+    "id": "17992866963",
+    "moving_time": 3964.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T17:26:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
