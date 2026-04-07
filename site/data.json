@@ -1124,6 +1124,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17992866963",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 19,
+      "name": "Roswell Riverside Trail",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18006907188",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1741,6 +1750,15 @@
           "distance": 4238.0,
           "elevation_gain": 14.0,
           "moving_time": 1403.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18006907188"
+          ],
+          "count": 1,
+          "distance": 10029.9,
+          "elevation_gain": 13.3,
+          "moving_time": 3350.0
         }
       },
       "TrailRun": {
@@ -2179,7 +2197,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:41:29.386882+00:00",
+  "generated_at": "2026-04-07T16:08:04.638008+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
