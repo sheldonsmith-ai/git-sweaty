@@ -1675,5 +1675,31 @@
     "start_date_local": "2026-04-10T17:31:31Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 1438.0,
+    "elevation_gain": 13.6,
+    "id": "18098202634",
+    "moving_time": 492.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T18:59:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 6764.0,
+    "elevation_gain": 41.6,
+    "id": "18098622015",
+    "moving_time": 2685.0,
+    "name": "Dodging electric scooters",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T20:07:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
