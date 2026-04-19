@@ -1205,6 +1205,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18138673903",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 11,
+      "name": "Morehouse spring game",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18161413503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1876,6 +1885,15 @@
           "distance": 7540.7,
           "elevation_gain": 20.5,
           "moving_time": 2637.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18161413503"
+          ],
+          "count": 1,
+          "distance": 1676.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4673.0
         }
       },
       "TrailRun": {
@@ -2341,7 +2359,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:33:29.525198+00:00",
+  "generated_at": "2026-04-19T15:33:43.070255+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
