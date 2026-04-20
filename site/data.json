@@ -1214,6 +1214,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18161413503",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 16,
+      "name": "Ellicott Rock Day 1",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18177353222",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 11,
+      "name": "Ellicott Rock Day 2",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18177353587",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1720,6 +1738,24 @@
           "distance": 6792.2,
           "elevation_gain": 145.0,
           "moving_time": 4804.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18177353222"
+          ],
+          "count": 1,
+          "distance": 15040.5,
+          "elevation_gain": 305.4,
+          "moving_time": 10799.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18177353587"
+          ],
+          "count": 1,
+          "distance": 17221.6,
+          "elevation_gain": 475.5,
+          "moving_time": 13623.0
         }
       },
       "Run": {
@@ -2359,7 +2395,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:33:43.070255+00:00",
+  "generated_at": "2026-04-20T16:03:45.382055+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
