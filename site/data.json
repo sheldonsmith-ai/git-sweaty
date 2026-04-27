@@ -1295,6 +1295,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18258644314",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 13,
+      "name": "Benton Mackay / Stanley Gap + Flat Creek Loop",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18273753100",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1828,6 +1837,15 @@
           "distance": 20239.7,
           "elevation_gain": 981.7,
           "moving_time": 14507.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18273753100"
+          ],
+          "count": 1,
+          "distance": 27111.3,
+          "elevation_gain": 1043.5,
+          "moving_time": 20969.0
         }
       },
       "Run": {
@@ -2513,7 +2531,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:38:07.957095+00:00",
+  "generated_at": "2026-04-27T16:23:42.714049+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
