@@ -1358,6 +1358,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18349577051",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 14,
+      "name": "Springer Mtn via secret trail... Lost the first 7 miles...",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18372053584",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1900,6 +1909,15 @@
           "distance": 27111.3,
           "elevation_gain": 1043.5,
           "moving_time": 20969.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18372053584"
+          ],
+          "count": 1,
+          "distance": 29538.6,
+          "elevation_gain": 452.7,
+          "moving_time": 21697.0
         }
       },
       "Run": {
@@ -2639,7 +2657,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:41:51.446028+00:00",
+  "generated_at": "2026-05-04T16:28:33.990517+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",

@@ -1961,5 +1961,18 @@
     "start_date_local": "2026-05-02T08:59:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 29538.6,
+    "elevation_gain": 452.7,
+    "id": "18372053584",
+    "moving_time": 21697.0,
+    "name": "Springer Mtn via secret trail... Lost the first 7 miles...",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T14:43:55Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
