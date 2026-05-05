@@ -1974,5 +1974,44 @@
     "start_date_local": "2026-05-03T14:43:55Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 11104.5,
+    "elevation_gain": 0.0,
+    "id": "18374371797",
+    "moving_time": 9900.0,
+    "name": "Missing start to the Springer Mtn hike...",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T12:53:47Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 1681.1,
+    "elevation_gain": 317.0,
+    "id": "18380063071",
+    "moving_time": 2133.0,
+    "name": "Springer - Bear Hare Connector (unmaintained trail)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T12:34:11Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 3022.0,
+    "elevation_gain": 54.9,
+    "id": "18378982320",
+    "moving_time": 3402.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T17:53:26Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

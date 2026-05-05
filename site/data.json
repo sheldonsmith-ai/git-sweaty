@@ -1367,6 +1367,33 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18372053584",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 12,
+      "name": "Missing start to the Springer Mtn hike...",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18374371797",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 12,
+      "name": "Springer - Bear Hare Connector (unmaintained trail)",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18380063071",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18378982320",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1912,12 +1939,14 @@
         },
         "2026-05-03": {
           "activity_ids": [
-            "18372053584"
+            "18372053584",
+            "18374371797",
+            "18380063071"
           ],
-          "count": 1,
-          "distance": 29538.6,
-          "elevation_gain": 452.7,
-          "moving_time": 21697.0
+          "count": 3,
+          "distance": 42324.2,
+          "elevation_gain": 769.7,
+          "moving_time": 33730.0
         }
       },
       "Run": {
@@ -2642,6 +2671,15 @@
           "distance": 7321.0,
           "elevation_gain": 66.7,
           "moving_time": 6522.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18378982320"
+          ],
+          "count": 1,
+          "distance": 3022.0,
+          "elevation_gain": 54.9,
+          "moving_time": 3402.0
         }
       },
       "WeightTraining": {
@@ -2657,7 +2695,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:28:33.990517+00:00",
+  "generated_at": "2026-05-05T16:20:53.163182+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
