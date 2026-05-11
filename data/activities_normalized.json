@@ -2091,5 +2091,31 @@
     "start_date_local": "2026-05-09T15:44:49Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 28133.1,
+    "elevation_gain": 881.5,
+    "id": "18457766128",
+    "moving_time": 22180.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-10T09:50:17Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 971.0,
+    "elevation_gain": 125.1,
+    "id": "18458106359",
+    "moving_time": 1008.0,
+    "name": "Quick jaunt up to Brasstown Bald",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-10T17:59:24Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
