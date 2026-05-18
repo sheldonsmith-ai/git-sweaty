@@ -1502,6 +1502,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18510963379",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 15,
+      "name": "Smoky Mountains Day 1",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18546805233",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 8,
+      "name": "Smoky Mountains Day 2",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18546815247",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 10,
+      "name": "Smoky Mountains Day 3",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18549206141",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2074,6 +2101,33 @@
           "distance": 29104.1,
           "elevation_gain": 1006.6,
           "moving_time": 23188.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18546805233"
+          ],
+          "count": 1,
+          "distance": 16749.0,
+          "elevation_gain": 493.8,
+          "moving_time": 13258.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18546815247"
+          ],
+          "count": 1,
+          "distance": 34498.0,
+          "elevation_gain": 1048.2,
+          "moving_time": 24095.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18549206141"
+          ],
+          "count": 1,
+          "distance": 27363.0,
+          "elevation_gain": 970.0,
+          "moving_time": 20506.0
         }
       },
       "Run": {
@@ -2903,7 +2957,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:55:14.407158+00:00",
+  "generated_at": "2026-05-18T17:28:10.176835+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",

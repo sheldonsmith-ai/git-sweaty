@@ -2169,5 +2169,44 @@
     "start_date_local": "2026-05-14T18:01:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 16749.0,
+    "elevation_gain": 493.8,
+    "id": "18546805233",
+    "moving_time": 13258.0,
+    "name": "Smoky Mountains Day 1",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-15T15:52:32Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 34498.0,
+    "elevation_gain": 1048.2,
+    "id": "18546815247",
+    "moving_time": 24095.0,
+    "name": "Smoky Mountains Day 2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-16T08:26:20Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 27363.0,
+    "elevation_gain": 970.0,
+    "id": "18549206141",
+    "moving_time": 20506.0,
+    "name": "Smoky Mountains Day 3",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-17T10:26:25Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
