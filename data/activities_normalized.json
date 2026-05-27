@@ -2260,5 +2260,18 @@
     "start_date_local": "2026-05-25T17:15:41Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 6742.0,
+    "elevation_gain": 27.9,
+    "id": "18669808662",
+    "moving_time": 4055.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-26T22:07:25Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
