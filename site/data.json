@@ -1592,6 +1592,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18697027210",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 11,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18718252399",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 13,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18719442577",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18720432125",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2191,6 +2218,17 @@
           "distance": 27363.0,
           "elevation_gain": 970.0,
           "moving_time": 20506.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18718252399",
+            "18719442577",
+            "18720432125"
+          ],
+          "count": 3,
+          "distance": 10185.0,
+          "elevation_gain": 349.3,
+          "moving_time": 8328.0
         }
       },
       "Run": {
@@ -3075,7 +3113,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:01:37.632048+00:00",
+  "generated_at": "2026-05-31T16:02:15.210836+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
