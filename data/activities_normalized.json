@@ -2442,5 +2442,18 @@
     "start_date_local": "2026-06-05T18:19:32Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 15139.0,
+    "elevation_gain": 528.9,
+    "id": "18814277199",
+    "moving_time": 13122.0,
+    "name": "Big Frog Wilderness",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-06T08:50:49Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

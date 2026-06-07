@@ -1691,6 +1691,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18802650835",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "name": "Big Frog Wilderness",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18814277199",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2311,6 +2320,15 @@
           "distance": 27657.0,
           "elevation_gain": 1479.8,
           "moving_time": 25652.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18814277199"
+          ],
+          "count": 1,
+          "distance": 15139.0,
+          "elevation_gain": 528.9,
+          "moving_time": 13122.0
         }
       },
       "Run": {
@@ -3249,7 +3267,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:03:16.566353+00:00",
+  "generated_at": "2026-06-07T16:10:45.234980+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
