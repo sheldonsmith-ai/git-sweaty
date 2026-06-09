@@ -2468,5 +2468,18 @@
     "start_date_local": "2026-06-07T06:43:10Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 6886.0,
+    "elevation_gain": 75.3,
+    "id": "18844715460",
+    "moving_time": 2630.0,
+    "name": "Light jog through enemy territory",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T20:42:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
