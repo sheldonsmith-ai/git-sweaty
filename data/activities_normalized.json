@@ -2481,5 +2481,18 @@
     "start_date_local": "2026-06-08T20:42:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 5665.0,
+    "elevation_gain": 100.8,
+    "id": "18870691762",
+    "moving_time": 5409.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-10T15:55:15Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
