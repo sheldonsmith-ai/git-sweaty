@@ -1727,6 +1727,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18870691762",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18885965510",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2674,6 +2683,15 @@
           "distance": 6886.0,
           "elevation_gain": 75.3,
           "moving_time": 2630.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18885965510"
+          ],
+          "count": 1,
+          "distance": 4622.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3608.0
         }
       },
       "TrailRun": {
@@ -3321,7 +3339,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:09:28.383058+00:00",
+  "generated_at": "2026-06-12T17:34:48.889412+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
