@@ -2572,5 +2572,44 @@
     "start_date_local": "2026-06-17T21:54:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 14341.0,
+    "elevation_gain": 813.5,
+    "id": "19015832460",
+    "moving_time": 10000.0,
+    "name": "Approach to Kuwohi",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-19T17:28:20Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 30121.0,
+    "elevation_gain": 1678.2,
+    "id": "19015837047",
+    "moving_time": 23636.0,
+    "name": "Summiting Kuwohi and Mt Collins",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-20T09:09:10Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 15189.0,
+    "elevation_gain": 229.2,
+    "id": "19015838052",
+    "moving_time": 10117.0,
+    "name": "Easy Downhill Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-21T10:21:59Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

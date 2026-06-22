@@ -1781,6 +1781,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18966124147",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 17,
+      "name": "Approach to Kuwohi",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19015832460",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "name": "Summiting Kuwohi and Mt Collins",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19015837047",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 10,
+      "name": "Easy Downhill Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19015838052",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2437,6 +2464,33 @@
           "distance": 6870.0,
           "elevation_gain": 83.1,
           "moving_time": 5220.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "19015832460"
+          ],
+          "count": 1,
+          "distance": 14341.0,
+          "elevation_gain": 813.5,
+          "moving_time": 10000.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19015837047"
+          ],
+          "count": 1,
+          "distance": 30121.0,
+          "elevation_gain": 1678.2,
+          "moving_time": 23636.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19015838052"
+          ],
+          "count": 1,
+          "distance": 15189.0,
+          "elevation_gain": 229.2,
+          "moving_time": 10117.0
         }
       },
       "Run": {
@@ -3429,7 +3483,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:27:02.479853+00:00",
+  "generated_at": "2026-06-22T18:43:13.434119+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
