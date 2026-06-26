@@ -2624,5 +2624,18 @@
     "start_date_local": "2026-06-22T18:07:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 5284.0,
+    "elevation_gain": 2.9,
+    "id": "19067369285",
+    "moving_time": 1741.0,
+    "name": "Chicago Lakeshore",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T17:21:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
