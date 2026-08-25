@@ -3196,5 +3196,18 @@
     "start_date_local": "2026-08-21T19:26:10Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 5159.0,
+    "elevation_gain": 15.5,
+    "id": "19886808895",
+    "moving_time": 1755.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T21:41:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
