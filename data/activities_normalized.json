@@ -3235,5 +3235,18 @@
     "start_date_local": "2026-08-25T19:14:37Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 3409.4,
+    "elevation_gain": 2.5,
+    "id": "19928888953",
+    "moving_time": 3706.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-27T16:59:38Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
