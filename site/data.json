@@ -2258,6 +2258,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19943471378",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20041267582",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3457,6 +3466,15 @@
           "distance": 4214.7,
           "elevation_gain": 5.3,
           "moving_time": 2066.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20041267582"
+          ],
+          "count": 1,
+          "distance": 3337.2,
+          "elevation_gain": 2.8,
+          "moving_time": 1841.0
         }
       },
       "TrailRun": {
@@ -4367,7 +4385,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T17:59:29.821675+00:00",
+  "generated_at": "2026-09-05T17:04:13.841169+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
