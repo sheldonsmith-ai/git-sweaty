@@ -3443,5 +3443,18 @@
     "start_date_local": "2026-10-03T13:57:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 7559.8,
+    "elevation_gain": 14.0,
+    "id": "20517339718",
+    "moving_time": 10253.0,
+    "name": "Morning Flag Games",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-09T08:17:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
