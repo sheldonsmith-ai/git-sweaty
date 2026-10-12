@@ -3495,5 +3495,31 @@
     "start_date_local": "2026-10-10T15:19:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 5709.5,
+    "elevation_gain": 8.0,
+    "id": "20547992111",
+    "moving_time": 3171.0,
+    "name": "Morning Flag Games",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T07:56:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 6582.1,
+    "elevation_gain": 10.0,
+    "id": "20547995012",
+    "moving_time": 3572.0,
+    "name": "Afternoon Flag Games",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T12:53:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

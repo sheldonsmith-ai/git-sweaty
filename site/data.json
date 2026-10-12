@@ -2420,6 +2420,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20534574789",
       "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 7,
+      "name": "Morning Flag Games",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20547992111",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 12,
+      "name": "Afternoon Flag Games",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20547995012",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3720,6 +3738,16 @@
           "distance": 18369.6,
           "elevation_gain": 17.0,
           "moving_time": 10595.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20547992111",
+            "20547995012"
+          ],
+          "count": 2,
+          "distance": 12291.6,
+          "elevation_gain": 18.0,
+          "moving_time": 6743.0
         }
       },
       "TrailRun": {
@@ -4667,7 +4695,7 @@
       }
     }
   },
-  "generated_at": "2026-10-11T19:18:10.898578+00:00",
+  "generated_at": "2026-10-12T22:21:30.497198+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
