@@ -2474,6 +2474,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20641066880",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20692237970",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20695829039",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-23",
+      "hour": 9,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20703327362",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3784,6 +3811,24 @@
           "distance": 12291.6,
           "elevation_gain": 18.0,
           "moving_time": 6743.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20692237970"
+          ],
+          "count": 1,
+          "distance": 7838.6,
+          "elevation_gain": 0.0,
+          "moving_time": 4451.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20695829039"
+          ],
+          "count": 1,
+          "distance": 8098.4,
+          "elevation_gain": 0.0,
+          "moving_time": 4617.0
         }
       },
       "TrailRun": {
@@ -4744,6 +4789,15 @@
           "distance": 10256.2,
           "elevation_gain": 169.0,
           "moving_time": 10283.0
+        },
+        "2026-10-23": {
+          "activity_ids": [
+            "20703327362"
+          ],
+          "count": 1,
+          "distance": 5500.2,
+          "elevation_gain": 135.9,
+          "moving_time": 5299.0
         }
       },
       "WeightTraining": {
@@ -4759,7 +4813,7 @@
       }
     }
   },
-  "generated_at": "2026-10-22T19:01:02.556578+00:00",
+  "generated_at": "2026-10-23T18:50:03.897950+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/742463",
   "repo": "sheldonsmith-ai/git-sweaty",
